@@ -1,3 +1,10 @@
+# Home for Icarus Initiative
+
+- A zero-cost, crowdsource community of Rust/Solana learners that iteratively improves the curriculum by building projects, evaluating resources, and voting on curriculum development.
+- More information can be found at [Icarus Initiative Organization](https://github.com/icarus-initiative/organization_core).
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
