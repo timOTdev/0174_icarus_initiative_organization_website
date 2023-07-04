@@ -1,4 +1,6 @@
-# Home for Icarus Initiative
+# 0174_icarus_initiative_organization_website
+
+## Home for Icarus Initiative
 
 - A zero-cost, crowdsource community of Rust/Solana learners that iteratively improves the curriculum by building projects, evaluating resources, and voting on curriculum development.
 - More information can be found at [Icarus Initiative Organization](https://github.com/icarus-initiative/organization_core).
